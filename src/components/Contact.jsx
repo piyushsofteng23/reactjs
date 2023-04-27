@@ -27,8 +27,8 @@ const Contact = () => {
 
     emailjs
       .send(
-        "service_r0jcplm",
-        "template_1t76uxq",
+        "service_kn9j7pv",
+        "template_v7fl5l4",
         {
           form_name: form.name,
           to_name: "Piyush",
@@ -36,7 +36,7 @@ const Contact = () => {
           to_email: "piyushsofteng23@gmail.com",
           message: form.message,
         },
-        "Jqq9AvwIuSjoMiA5c"
+        "QmoQDOh-wIvBTlchgbQrb"
       )
       .then(
         () => {
