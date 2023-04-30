@@ -137,7 +137,7 @@ const experiences = [
   },
   {
     title: "Web Designer",
-    company_name: "Tesla",
+    company_name: "Freelancer",
     icon: freelancer,
     iconBg: "#383E56",
     date: "Jan 2021 - present",
@@ -213,20 +213,20 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Netflix Clone",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "The Netflix clone project is a web application that emulates the functionality of the popular streaming platform, Netflix. It allows users to browse, search, and view movies and TV shows, and also includes features such as user authentication and responsive design for different screen sizes.",
     tags: [
       {
-        name: "react",
+        name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Prototype",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Design",
         color: "pink-text-gradient",
       },
     ],
@@ -234,45 +234,45 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Food App UI",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A food app UI would typically include a landing screen where users can browse through various food categories and explore popular food items. The app may also feature a search bar to help users find specific dishes or cuisines.From quick and easy weeknight dinners to elaborate holiday feasts!",
     tags: [
       {
-        name: "react",
+        name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Prototype",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Design",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: foodapp,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "App UI",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Discover delicious meals and recipes with ease on our food app! Our user-friendly interface provides you with a personalized experience, allowing you to search, filter, and save your favorite meals. From quick and easy weeknight dinners to elaborate holiday feasts! Visit the project by the link mentioned",
     tags: [
       {
-        name: "nextjs",
+        name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Prototype",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Design",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: food2app,
     source_code_link: "https://github.com/",
   },
 ];
